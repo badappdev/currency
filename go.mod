@@ -1,4 +1,4 @@
-module github.com/badappsdev/currency
+module github.com/badappdev/currency
 
 go 1.19
 

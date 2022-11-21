@@ -31,9 +31,9 @@ func main() {
 
 ```
 
-## Supported Languages
+## Supported Currencies
 
-supported languages will change based on project requirements.
+supported currencies will change based on project requirements.
 
 currently supported
 
